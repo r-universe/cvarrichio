@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Matrix.utils"]
+	path = Matrix.utils
+	url = https://github.com/cvarrichio/matrix.utils
+	shallow = true
+	registered = true
